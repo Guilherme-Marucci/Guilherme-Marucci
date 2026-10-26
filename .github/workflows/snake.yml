@@ -12,6 +12,11 @@ on:
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
+# Also runs on every push to main, so the snake is generated right away.
+  push:
+    branches:
+      - main
+
 permissions:
   contents: write
 
