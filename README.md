@@ -4,7 +4,20 @@
 
 ## Apresentação
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwindcss,styledcomponents,emotion,js,ts,react,next,solidity,graphql,vite,git&theme=dark)](https://skills.thijs.gg)
+    <table>
+        <tr>
+            <h3>My Skills: </h3>
+            <td>
+               <img src="src/SQL.png" alt="SQL">
+               <img src="src/C.png" alt="C">
+               <img src="src/py.png" alt="PYTHON">
+               <img src="src/JS.png" alt="JS">
+               <img src="src/css.png" alt="CSS">
+               <img src="src/html.png" alt="HTML">
+            </td> 
+        </tr>
+    </table>
+
 
 ## Glad to see you here! ![visitors](https://komarev.com/ghpvc/?username=Guilherme-Marucci&color=blueviolet&style=flat)
 
